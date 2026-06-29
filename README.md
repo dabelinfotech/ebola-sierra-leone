@@ -4,7 +4,13 @@ An end-to-end Excel data analysis project: raw line-list data is cleansed, summa
 
 ## Dashboard
 
-![Ebola Outbreak Dashboard — Sierra Leone 2014](assets/dashboard.png)
+### Styled Version
+
+![Ebola Outbreak Dashboard — styled version](assets/dashboard_styled.png)
+
+### Original (generated from the workbook)
+
+![Ebola Outbreak Dashboard — original version](assets/dashboard_original.png)
 
 ## Contents
 
@@ -12,7 +18,8 @@ An end-to-end Excel data analysis project: raw line-list data is cleansed, summa
 |------|-------------|
 | `ebola_sierra_leone.csv` | Raw case line-list (200 records) |
 | `Ebola_Sierra_Leone_Dashboard.xlsx` | Workbook with three sheets: **Dashboard**, **Metrics**, **Data** |
-| `assets/dashboard.png` | Dashboard preview image |
+| `assets/dashboard_styled.png` | Styled dashboard preview (with logo) |
+| `assets/dashboard_original.png` | Original dashboard preview rendered from the workbook |
 
 ## Data Cleansing
 
